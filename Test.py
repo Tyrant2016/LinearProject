@@ -84,5 +84,5 @@ def sinplot(flip=1):
 sinplot()
 sns.set()
 sinplot()
-print('This is a test3')
+print('This is a test1')
 
